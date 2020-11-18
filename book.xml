@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<flight>
+    <number>f12345</number>
+    <name>aaa</name>
+    <type>Business</type>
+    <seat category="AC">
+        <date>20.11.2020</date>
+        <from>chennai</from>
+        <to>madurai</to>
+        <availability>10</availability>
+    </seat>
+    <seat category="AC">
+        <date>20.11.2020</date>
+        <from>chennai</from>
+        <to>madurai</to>
+        <availability>25</availability>
+    </seat>
+    <seat category="AC">
+        <date>20.11.2020</date>
+        <from>chennai</from>
+        <to>coimbatore</to>
+        <availability>30</availability>
+    </seat>
+</flight>

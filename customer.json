@@ -1,0 +1,54 @@
+{
+  "details": {
+    "info": [
+      {
+        "-id": "01",
+        "name": "selvin",
+        "age": "19",
+        "gender": "male",
+        "address": "abc",
+        "phone": "9655262665",
+        "aadhar": "1111 2222 3333",
+        "flightdetails": {
+          "flightno": "f12345",
+          "from": "chennai",
+          "to": "madurai",
+          "amount": "2800",
+          "date": "20.11.2020"
+        }
+      },
+      {
+        "-id": "02",
+        "name": "veera",
+        "age": "20",
+        "gender": "male",
+        "address": "yyy",
+        "phone": "9095459396",
+        "aadhar": "1212 3434 5656",
+        "flightdetails": {
+          "flightno": "f12345",
+          "from": "chennai",
+          "to": "madurai",
+          "amount": "2500",
+          "date": "20.11.2020"
+        }
+      },
+      {
+        "-id": "03",
+        "name": "subash",
+        "age": "20",
+        "gender": "male",
+        "address": "zzz",
+        "phone": "7010869523",
+        "aadhar": "1234 3456 5678",
+        "flightdetails": {
+          "flightno": "f12345",
+          "from": "chennai",
+          "to": "coimbatore",
+          "amount": "2800",
+          "date": "20.11.2020"
+        }
+      }
+    ]
+  }
+}

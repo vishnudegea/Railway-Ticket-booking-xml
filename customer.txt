@@ -1,0 +1,58 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT details (info)+>
+<!ATTLIST details
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT info (name,age,gender,address,phone,aadhar,flightdetails)>
+<!ATTLIST info
+  xmlns CDATA #FIXED ''
+  id CDATA #REQUIRED>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT age (#PCDATA)>
+<!ATTLIST age
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT gender (#PCDATA)>
+<!ATTLIST gender
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT address (#PCDATA)>
+<!ATTLIST address
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT phone (#PCDATA)>
+<!ATTLIST phone
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT aadhar (#PCDATA)>
+<!ATTLIST aadhar
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT flightdetails (flightno,from,to,amount,date)>
+<!ATTLIST flightdetails
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT flightno (#PCDATA)>
+<!ATTLIST flightno
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT from (#PCDATA)>
+<!ATTLIST from
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT to (#PCDATA)>
+<!ATTLIST to
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT amount (#PCDATA)>
+<!ATTLIST amount
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST date
+  xmlns CDATA #FIXED ''>

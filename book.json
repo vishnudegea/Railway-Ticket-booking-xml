@@ -1,0 +1,30 @@
+{
+  "flight": {
+    "number": "f12345",
+    "name": "aaa",
+    "type": "Business",
+    "seat": [
+      {
+        "-category": "AC",
+        "date": "20.11.2020",
+        "from": "chennai",
+        "to": "madurai",
+        "availability": "10"
+      },
+      {
+        "-category": "AC",
+        "date": "20.11.2020",
+        "from": "chennai",
+        "to": "madurai",
+        "availability": "25"
+      },
+      {
+        "-category": "AC",
+        "date": "20.11.2020",
+        "from": "chennai",
+        "to": "coimbatore",
+        "availability": "30"
+      }
+    ]
+  }
+}

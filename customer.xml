@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<details>
+    <info id="01">
+        <name>selvin</name>
+        <age>19</age>
+        <gender>male</gender>
+        <address>abc</address>
+        <phone>9655262665</phone>
+        <aadhar>1111 2222 3333</aadhar>
+        <flightdetails>
+            <flightno>f12345</flightno>
+            <from>chennai</from>
+            <to>madurai</to>
+            <amount>2800</amount>
+            <date>20.11.2020</date>
+        </flightdetails>
+    </info>
+    <info id="02">
+        <name>veera</name>
+        <age>20</age>
+        <gender>male</gender>
+        <address>yyy</address>
+        <phone>9095459396</phone>
+        <aadhar>1212 3434 5656</aadhar>
+        <flightdetails>
+            <flightno>f12345</flightno>
+            <from>chennai</from>
+            <to>madurai</to>
+            <amount>2500</amount>
+            <date>20.11.2020</date>
+        </flightdetails>
+    </info>
+    <info id="03">
+        <name>subash</name>
+        <age>20</age>
+        <gender>male</gender>
+        <address>zzz</address>
+        <phone>7010869523</phone>
+        <aadhar>1234 3456 5678</aadhar>
+        <flightdetails>
+            <flightno>f12345</flightno>
+            <from>chennai</from>
+            <to>coimbatore</to>
+            <amount>2800</amount>
+            <date>20.11.2020</date>
+        </flightdetails>
+    </info>
+</details>

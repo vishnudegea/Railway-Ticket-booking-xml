@@ -1,0 +1,38 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT flight (number,name,type,seat+)>
+<!ATTLIST flight
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT number (#PCDATA)>
+<!ATTLIST number
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT type (#PCDATA)>
+<!ATTLIST type
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT seat (date,from,to,availability)>
+<!ATTLIST seat
+  xmlns CDATA #FIXED ''
+  category NMTOKEN #REQUIRED>
+
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST date
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT from (#PCDATA)>
+<!ATTLIST from
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT to (#PCDATA)>
+<!ATTLIST to
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT availability (#PCDATA)>
+<!ATTLIST availability
+  xmlns CDATA #FIXED ''>
